@@ -11,6 +11,8 @@ wheels/
 
 case-ds-junior.zip
 
+docs/
+
 # Backups e checkpoints do Jupyter: carregam versões antigas do notebook.
 *.ipynb.bak*
 .ipynb_checkpoints/
