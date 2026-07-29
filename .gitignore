@@ -9,6 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
+case-ds-junior.zip
 
 # Backups e checkpoints do Jupyter: carregam versões antigas do notebook.
 *.ipynb.bak*
